@@ -1,0 +1,6 @@
+[
+  { "type": "delay" },
+  { "type": "fast" },
+  { "type": "blast" },
+  { "type": "slow" }
+]
